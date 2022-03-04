@@ -5,7 +5,7 @@
 
 .jumbo-main {
   height: 400px;
-  background-image: url("../../img/jumbotron.jpg");
+  background-image: url("../img/jumbotron.jpg");
   background-position: top;
   background-size: cover;
 }
@@ -105,7 +105,7 @@ a:hover {
 }
 
 .footer2 {
-  background-image: url("../../img/footer-bg.jpg");
+  background-image: url("../img/footer-bg.jpg");
 }
 
 .footer3 {

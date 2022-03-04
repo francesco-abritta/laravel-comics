@@ -29,43 +29,47 @@
                 <div class="col1">
                     <ul class="ulFooter">
                         DC COMICS
-                        <li>Characters</li>
-                        <li>Characters</li>
-                        <li>Characters</li>
-                        <li>Characters</li>
-                        <li>Characters</li>
-                        <li>Characters</li>
-                        <li>Characters</li>
+                        <li>Comics</li>
+                        <li>Comics</li>
+                        <li>Comics</li>
+                        <li>Comics</li>
+                        <li>Comics</li>
+                        <li>Comics</li>
+                        <li>Comics</li>
                     </ul>
                     <ul class="ulFooter">
                         SHOP
-                        <li>Characters</li>
-                        <li>Characters</li>
+                        <li>Comics</li>
+                        <li>Comics</li>
                     </ul>
                 </div>
                 
                 <div class="col2">
+                    <ul class="ulFooter">
                     DC
-                    <li>Characters</li>
-                    <li>Characters</li>
-                    <li>Characters</li>
-                    <li>Characters</li>
-                    <li>Characters</li>
-                    <li>Characters</li>
-                    <li>Characters</li>
-                    <li>Characters</li>
-                    <li>Characters</li>
-                    <li>Characters</li>
-                    <li>Characters</li>
+                        <li>Comics</li>
+                        <li>Comics</li>
+                        <li>Comics</li>
+                        <li>Comics</li>
+                        <li>Comics</li>
+                        <li>Comics</li>
+                        <li>Comics</li>
+                        <li>Comics</li>
+                        <li>Comics</li>
+                        <li>Comics</li>
+                        <li>Comics</li>
+                    </ul>                    
                 </div>
     
                 <div class="col3">
-                    SITES
-                    <li>Characters</li>
-                    <li>Characters</li>
-                    <li>Characters</li>
-                    <li>Characters</li>
-                    <li>Characters</li>
+                    <ul class="ulFooter">
+                        SITES
+                        <li>Comics</li>
+                        <li>Comics</li>
+                        <li>Comics</li>
+                        <li>Comics</li>
+                        <li>Comics</li>
+                    </ul>
                 </div>
                     
             </div>
