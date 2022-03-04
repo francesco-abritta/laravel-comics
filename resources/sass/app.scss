@@ -1,1 +1,18 @@
-//
+@import 'partials/_main.scss';
+@import 'partials/_header.scss';
+@import 'partials/_footer.scss';
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&family=Montserrat:wght@100&family=Roboto:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.contenitore{
+    padding: 0 15%;
+}

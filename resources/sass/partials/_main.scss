@@ -1,0 +1,62 @@
+main{
+    background-color: rgb(32, 32, 32);
+    color: white;
+}
+
+.jumbo-main{
+    height: 400px;
+    background-image: url('../../img/jumbotron.jpg');
+    background-position:top;
+    background-size: cover;
+}
+
+.buttontop, .buttonbottom{
+    background-color: #117CEC;
+    border: 0;
+    color: white;
+}
+
+.buttontop{
+    position: absolute;
+    top: -15px;
+    left: 200px;
+    padding: 10px 20px;
+}
+
+.pad{
+    padding: 20px 0;
+    position: relative;
+}
+
+.buttonbottom{
+    font-size: 10px;
+    padding: 10px 30px;
+    margin-bottom: 20px;
+}
+
+.bottone{
+    text-align: center;
+}
+
+.items{
+    font-size: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 40px;
+}
+
+.item{
+    margin-bottom: 40px;
+    margin-right: 5px;
+}
+
+.item img{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 15px;
+}
+
+.text{
+    max-width: 130px;
+    word-break: break-word;
+}
